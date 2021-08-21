@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"L:\\Unreal Projects\\Slasher\\Source\\Slasher\\Slasher.Build.cs",
+		"L:\\Unreal Projects\\Slasher\\Source\\Slasher.Target.cs",
+		"L:\\Unreal Projects\\Slasher\\Source\\SlasherEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

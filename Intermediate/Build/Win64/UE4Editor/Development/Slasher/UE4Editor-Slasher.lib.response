@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Slasher.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"L:\Unreal Projects\Slasher\Intermediate\Build\Win64\SlasherEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"L:\Unreal Projects\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\Slasher.cpp.obj"
+"L:\Unreal Projects\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\SlasherGameModeBase.cpp.obj"
+"L:\Unreal Projects\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\Slasher.init.gen.cpp.obj"
+"L:\Unreal Projects\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\SlasherGameModeBase.gen.cpp.obj"
+"L:\Unreal Projects\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\Default.rc2.res"
+/OUT:"L:\Unreal Projects\Slasher\Intermediate\Build\Win64\UE4Editor\Development\Slasher\UE4Editor-Slasher.lib"
